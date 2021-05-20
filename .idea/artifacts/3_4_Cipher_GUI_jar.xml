@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="3.4 Cipher GUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/3_4_Cipher_GUI_jar</output-path>
+    <root id="archive" name="3.4 Cipher GUI.jar">
+      <element id="module-output" name="3.4 Cipher GUI" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/flatlaf-1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
