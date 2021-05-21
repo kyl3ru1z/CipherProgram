@@ -30,9 +30,6 @@ public class MyFrame extends JFrame implements ActionListener {
         this.setResizable(false);
         this.setVisible(true);
 
-        ImageIcon logo = new ImageIcon("cipher logo.png");
-        this.setIconImage(logo.getImage());
-
         // Cipher Type Label and Combo box
         String[] cipherType = {"Caesar Cipher", "Vigenère Cipher", "Atbash"};
         cipherTypeComboBox = new JComboBox(cipherType);
