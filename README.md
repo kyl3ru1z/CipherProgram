@@ -9,4 +9,4 @@ This Cipher Program is able to encrypt and decrypt text w/ Caesar, Atbash, and V
 - Using ASCII for cipher logic
 
 # Screenshots 
-<img src="Screenshots/main_menu.PNG" height="200">
+<img src="screenshots/caesar.PNG" height="380"> <img src="screenshots/vigenere.PNG" height="380"> <img src="screenshots/atbash.PNG" height="380">
